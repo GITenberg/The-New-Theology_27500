@@ -1,0 +1,32 @@
+_repo: The-New-Theology_27500
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Campbell, R. J. (Reginald John)
+    alias: Campbell, Reginald John
+    birthdate: 1867
+    deathdate: 1956
+    gutenberg_agent_id: '32726'
+    url: http://www.gutenberg.org/2009/agents/32726
+description: The author, a popular Nonconformist preacher, reimagines traditional
+  Christian beliefs in this 1906 study of the historical Jesus. Attempting to harmonize
+  religion with modern scholarship, he considers the humanity and divinity of Jesus,
+  the nature of evil, the authority of scripture, the doctrine of atonement, and questions
+  of salvation, judgment, and the afterlife.
+gutenberg_issued: '2008-12-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27500'
+  lccn: '07011604'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BT'
+- !lcsh 'Theology, Doctrinal'
+title: The New Theology
+url: http://www.gutenberg.org/ebooks/27500
